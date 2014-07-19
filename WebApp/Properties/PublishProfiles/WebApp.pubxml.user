@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/Login.aspx">
+      <publishTime>04/27/2014 22:50:57</publishTime>
+    </File>
+    <File Include="Account/MemberLogin.aspx">
+      <publishTime>05/03/2014 09:52:55</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>05/01/2014 22:13:25</publishTime>
+    </File>
+    <File Include="Account/StaffLogin.aspx">
+      <publishTime>05/01/2014 22:14:30</publishTime>
+    </File>
+    <File Include="bin/ClassLibrary.dll">
+      <publishTime>04/27/2014 20:02:35</publishTime>
+    </File>
+    <File Include="bin/WebApp.dll">
+      <publishTime>05/03/2014 09:57:35</publishTime>
+    </File>
+    <File Include="Content/Style.css">
+      <publishTime>04/27/2014 21:27:23</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/27/2014 23:22:58</publishTime>
+    </File>
+    <File Include="DLL_Folder/ClassLibrary.dll">
+      <publishTime>04/27/2014 20:02:35</publishTime>
+    </File>
+    <File Include="EncryptDecryptTryIt.aspx">
+      <publishTime>04/27/2014 23:13:31</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/27/2014 20:55:52</publishTime>
+    </File>
+    <File Include="MemberPages/Checkout.aspx">
+      <publishTime>05/03/2014 09:39:08</publishTime>
+    </File>
+    <File Include="MemberPages/DayTypeUserControl.ascx">
+      <publishTime>04/27/2014 21:06:09</publishTime>
+    </File>
+    <File Include="MemberPages/Payment.aspx">
+      <publishTime>05/03/2014 09:40:22</publishTime>
+    </File>
+    <File Include="MemberPages/Receipt.aspx">
+      <publishTime>05/03/2014 09:56:31</publishTime>
+    </File>
+    <File Include="MemberPages/shoppingPage.aspx">
+      <publishTime>05/03/2014 09:46:01</publishTime>
+    </File>
+    <File Include="MemberPages/userControlDemo.aspx">
+      <publishTime>04/27/2014 22:21:04</publishTime>
+    </File>
+    <File Include="MemberPages/Web.config">
+      <publishTime>05/03/2014 09:52:30</publishTime>
+    </File>
+    <File Include="Service References/loginService/configuration.svcinfo">
+      <publishTime>04/27/2014 20:04:07</publishTime>
+    </File>
+    <File Include="Service References/loginService/configuration91.svcinfo">
+      <publishTime>04/27/2014 20:04:07</publishTime>
+    </File>
+    <File Include="Service References/loginService/LoginService.disco">
+      <publishTime>04/27/2014 20:04:07</publishTime>
+    </File>
+    <File Include="Service References/loginService/LoginService.wsdl">
+      <publishTime>04/27/2014 20:04:07</publishTime>
+    </File>
+    <File Include="Service References/loginService/Reference.svcmap">
+      <publishTime>04/27/2014 20:04:07</publishTime>
+    </File>
+    <File Include="Service References/loginService/WebApp.loginService.LoginDetails.datasource">
+      <publishTime>05/03/2014 07:56:18</publishTime>
+    </File>
+    <File Include="Service References/PaymentService/configuration.svcinfo">
+      <publishTime>05/01/2014 23:08:37</publishTime>
+    </File>
+    <File Include="Service References/PaymentService/configuration91.svcinfo">
+      <publishTime>05/01/2014 23:08:37</publishTime>
+    </File>
+    <File Include="Service References/PaymentService/PaymentService.disco">
+      <publishTime>05/01/2014 23:08:37</publishTime>
+    </File>
+    <File Include="Service References/PaymentService/PaymentService.wsdl">
+      <publishTime>05/01/2014 23:08:37</publishTime>
+    </File>
+    <File Include="Service References/PaymentService/Reference.svcmap">
+      <publishTime>05/01/2014 23:08:37</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/CartService.disco">
+      <publishTime>04/27/2014 21:08:41</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/CartService.wsdl">
+      <publishTime>04/27/2014 21:08:41</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/configuration.svcinfo">
+      <publishTime>04/27/2014 21:08:41</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/configuration91.svcinfo">
+      <publishTime>04/27/2014 21:08:41</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/Reference.svcmap">
+      <publishTime>04/27/2014 21:08:41</publishTime>
+    </File>
+    <File Include="Service References/shoppingCartService/WebApp.shoppingCartService.Product.datasource">
+      <publishTime>05/03/2014 08:51:18</publishTime>
+    </File>
+    <File Include="Service References/StaffRegisterService/configuration.svcinfo">
+      <publishTime>04/27/2014 20:35:48</publishTime>
+    </File>
+    <File Include="Service References/StaffRegisterService/configuration91.svcinfo">
+      <publishTime>04/27/2014 20:35:48</publishTime>
+    </File>
+    <File Include="Service References/StaffRegisterService/Reference.svcmap">
+      <publishTime>04/27/2014 20:35:48</publishTime>
+    </File>
+    <File Include="Service References/StaffRegisterService/SignUpService.disco">
+      <publishTime>04/27/2014 20:35:48</publishTime>
+    </File>
+    <File Include="Service References/StaffRegisterService/SignUpService.wsdl">
+      <publishTime>04/27/2014 20:35:48</publishTime>
+    </File>
+    <File Include="StaffPages/AddProduct.aspx">
+      <publishTime>05/01/2014 21:52:05</publishTime>
+    </File>
+    <File Include="StaffPages/DeleteProduct.aspx">
+      <publishTime>05/01/2014 21:54:03</publishTime>
+    </File>
+    <File Include="StaffPages/GetCatalog.aspx">
+      <publishTime>04/27/2014 21:55:19</publishTime>
+    </File>
+    <File Include="StaffPages/StaffDefault.aspx">
+      <publishTime>05/01/2014 22:05:37</publishTime>
+    </File>
+    <File Include="StaffPages/StaffPageHeader.ascx">
+      <publishTime>04/27/2014 20:23:21</publishTime>
+    </File>
+    <File Include="StaffPages/StaffRegistration.aspx">
+      <publishTime>05/01/2014 22:12:04</publishTime>
+    </File>
+    <File Include="StaffPages/Web.config">
+      <publishTime>05/01/2014 22:00:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/03/2014 09:57:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

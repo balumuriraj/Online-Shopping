@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1c0d7c84-7a7b-4c0b-8758-2ca4c3455281" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar30.fulton.asu.edu/page4/CartService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CartService.xsd" MetadataType="Schema" ID="19000b25-a2ce-42af-a7b6-27e66886128a" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/CartService.svc?xsd=xsd1" />
+    <MetadataFile FileName="CartService1.xsd" MetadataType="Schema" ID="1451e75d-3387-40b6-87b5-6e2762c61d2c" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/CartService.svc?xsd=xsd2" />
+    <MetadataFile FileName="CartService.wsdl" MetadataType="Wsdl" ID="244f070d-ebb7-45d8-8992-225be09d901d" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/CartService.svc?wsdl" />
+    <MetadataFile FileName="CartService.disco" MetadataType="Disco" ID="e4c64769-924e-49fb-b7b5-993cda228fd9" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/CartService.svc?disco" />
+    <MetadataFile FileName="CartService2.xsd" MetadataType="Schema" ID="360f36df-3619-4976-bc79-86edf55ad3ac" SourceId="1" SourceUrl="http://webstrar30.fulton.asu.edu/page4/CartService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
